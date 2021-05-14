@@ -1,0 +1,9 @@
+{
+  "name": "Deploy Spleeter to Heroku",
+  "logo": "",
+  "description": "Deploy Spleeter to Heroku.",
+  "keywords": ["Spleeter","Web"],
+  "website": "",
+  "repository": "",
+  "stack": "container"
+ }
